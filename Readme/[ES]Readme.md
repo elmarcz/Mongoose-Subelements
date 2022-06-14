@@ -23,12 +23,11 @@ Un subelemento es un elemento dentro de otro elemento que tiene su propio id aut
 ```
 
 ### 📜 Gestionar subelementos
-- [Code]()
+- [Code](https://github.com/elmarcz/Mongoose-Subelements/blob/master/Readme/[ES]ManageSubelements.md)
 
 ### ⚙️ Idioma
-- [Español]()
-- [Inglés]()
-
+- [Español](https://github.com/elmarcz/Mongoose-Subelements/blob/master/Readme/[ES]Readme.md)
+- [Inglés](https://github.com/elmarcz/Mongoose-Subelements)
 
 
 ### 👤 Manténte en contacto

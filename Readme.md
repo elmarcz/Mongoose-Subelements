@@ -22,11 +22,11 @@ A subelement is an element inside another element which has its own id autogener
 ```
 
 ### 📜 Manage Subelements
-- [Code]()
+- [Code](https://github.com/elmarcz/Mongoose-Subelements/blob/master/Readme/ManageSubelements.md)
 
 ### ⚙️Language
-- [Spanish](https://elmarcz.github.io/portfolio/)
-- [English](https://twitter.com/MarcMedrano15)
+- [Spanish](https://github.com/elmarcz/Mongoose-Subelements/blob/master/Readme/[ES]Readme.md)
+- [English](https://github.com/elmarcz/Mongoose-Subelements/)
 
 ### 👤 Stay in touch
 - [Website](https://elmarcz.github.io/portfolio/)
